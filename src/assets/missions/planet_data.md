@@ -1,0 +1,24 @@
+999
+planetary data
+start
+
+# Briefing // #999
+## DS6 Longmont
+
+- RULING POLITY:  **HOUSE OF STONE**
+- PRIMARY GOVERNMENT: **HOUSE LOSOLLA**
+- SECONDARY GOVERNMENT: **HOUSE BRUTUS**
+- PRIMARY INDUSTRY: Mineral Extraction
+- POPULATION: 1,823,000,000 ± 2,000,000
+- NOTABLE SETTLEMENTS: 
+    - **Umber's Rest**, Capital
+    - **Lumen**
+    - **Nova Passacaglia**
+- GRAVITY: 1.1G
+- DAY: 43.77 Hours
+- AXIAL TILT: 8°
+- ATMOSPHERE: 51% Argon, 21% Oxygen, 13% CO2, 9% Nitrogen, 6% Other
+- NATIVE LIFE: Class-4, non-hazardous
+- SOLAR INTENSITY: High
+- WATER: Polar surface oceans, subterranean lakes
+- TECTONIC ACTIVITY: Moderate

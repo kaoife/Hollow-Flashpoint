@@ -1,19 +1,19 @@
 {
-  "initialSlug": "001",
+  "initialSlug": "999",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
-  "icon": "/faction-logos/msmc.svg",
+  "defaultTitle": "FUCK |",
+  "icon": "/faction-logos/Fist.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
-    "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
+    "planet": "DS6 Longmont",
+    "year": "5016u",
+    "system": "Dawnline Shore",
+    "gate": "Blink-1",
     "ring": "Annamite",
-    "headerTitle": "Mirrorsmoke",
+    "headerTitle": "ERR_0x194 NAME",
     "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderTitle": "LPF Auxiliary",
+    "subheaderSubtitle": "Golf-Alpha-Yankee-Alpha-Foxtrot"
   },
   "pilotSpecialInfo": {}
 }
