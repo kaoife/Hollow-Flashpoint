@@ -1,5 +1,5 @@
-998
-chargen info
+999
+start here
 start
 
 # Briefing // #998
@@ -10,7 +10,6 @@ This campaign will aim for weekly play. If you are interested, please [fill out]
 
 ## License Level
 License level will be either 0 or 2 depending on player comfort with the system. If you are interested, please DM me with your preferred starting license level.
-
 
 ## Character Prompt
 You will be playing as a small band of independent mercenaries operating in the [Dawnline Shore](https://lancer.wiki.gg/wiki/Dawnline_Shore) who have recently been contracted by the Lluvian People's Front, a fractious insurgent group seeking to depose the current [Baronic](https://lancer.wiki.gg/wiki/Karrakin_Trade_Baronies) government. The money is good, but not good enough to justify the danger.
