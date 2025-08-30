@@ -3,7 +3,9 @@ start here
 start
 
 # Briefing // #998
-## Character Creation
+
+## Vibes
+I am shooting for a little more narrative/RP action than I see in a lot of lancer games, so please come ready to bring your best Big Gay Drama energy. I have some shit planned, but I am 100% here for player agency, so don't worry too too much about derailing my schemes.
 
 ## Scheduling
 This campaign will aim for weekly play. If you are interested, please [fill out](https://whenisgood.net/zk35t3d) your availability.
